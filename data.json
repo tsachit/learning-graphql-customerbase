@@ -1,34 +1,34 @@
 {
-    "customers": [
-        { 
-            "id": "1", 
-            "name": "Sachit Karki", 
-            "email": "sachitjungkarki@gmail.com", 
-            "age": "29" 
-        },
-        { 
-            "id": "2", 
-            "name": "Prasamsha Khadka", 
-            "email": "prasamsha@gmail.com", 
-            "age": "25" 
-        },
-        { 
-            "id": "3", 
-            "name": "John Wick", 
-            "email": "jwick@gmail.com", 
-            "age": "35" 
-        },
-        { 
-            "id": "4", 
-            "name": "Uzumaki Naruto", 
-            "email": "seventhhokage@gmail.com", 
-            "age": "22" 
-        },
-        { 
-            "id": "5", 
-            "name": "Monkey D. Luffy", 
-            "email": "pirateking@gmail.com", 
-            "age": "21" 
-        }
-    ]
+  "customers": [
+    {
+      "id": "1",
+      "name": "Sachit Karki",
+      "email": "sachitjungkarki@gmail.com",
+      "age": "29"
+    },
+    {
+      "id": "2",
+      "name": "Prasamsha Khadka",
+      "email": "prasamsha@gmail.com",
+      "age": "25"
+    },
+    {
+      "id": "3",
+      "name": "John Wick",
+      "email": "jwick@gmail.com",
+      "age": "35"
+    },
+    {
+      "id": "5",
+      "name": "Monkey D. Luffy",
+      "email": "pirateking@gmail.com",
+      "age": 25
+    },
+    {
+      "name": "Perry White",
+      "email": "perrywhite@gmail.com",
+      "age": 65,
+      "id": "CI-GQTM"
+    }
+  ]
 }
